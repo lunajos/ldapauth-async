@@ -2,7 +2,7 @@
 
 ## Overview
 
-There is a express server running. All code is in `app/`
+There is a express server running. All code is in `src/`
 
 Configurations can be in either `config.json` or `ldap_config.json`
 
