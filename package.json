@@ -1,0 +1,30 @@
+{
+  "name": "ldapauth-async",
+  "version": "1.0.0",
+  "description": "Test LDAP Credentials",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lunajos/ldapauth-async.git"
+  },
+  "keywords": [
+    "LDAP",
+    "Credential",
+    "test"
+  ],
+  "author": "Jose L",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lunajos/ldapauth-async/issues"
+  },
+  "homepage": "https://github.com/lunajos/ldapauth-async#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "passport": "^0.4.0",
+    "passport-ldapauth": "^2.1.3"
+  }
+}
