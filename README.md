@@ -2,7 +2,7 @@
 
 ## Overview
 
-There is a express server running. 
+There is a express server running. All code is in `app/`
 
 Configurations can be in either `config.json` or `ldap_config.json`
 
@@ -33,5 +33,6 @@ Create a `config.json` file in within this project and copy the content inside o
 
 ## Running Server
 
+- Install Dependencies: `npm install`
 - Run server: `node index.js`
 
